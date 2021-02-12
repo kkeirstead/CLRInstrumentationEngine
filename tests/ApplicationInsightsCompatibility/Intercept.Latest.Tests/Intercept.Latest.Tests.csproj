@@ -55,6 +55,7 @@
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <SkipGetTargetFrameworkProperties>true</SkipGetTargetFrameworkProperties>
       <Name>..\Dependencies\NativeDependencies.csproj</Name>
+      <NoWarn>CS2008</NoWarn>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
